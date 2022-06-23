@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(0, 230, 153);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    text-align: right;
+}
+

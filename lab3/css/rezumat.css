@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(253, 222, 214);
+    background-position: center down; 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+   }
+
+   
+.titlu {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: rgb(122, 140, 219);
+    font-size: 60px;
+    font-weight: 550;
+    margin-left: 12%;
+}
+
+#imagine {
+    width: 500px;
+    margin-left: 120%;
+    position: absolute;
+    top: 60px;
+    right: 50px;
+}
+
+.text {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(122, 140, 219);
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: -660px;
+    margin-left: 50px;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(122, 140, 219);
+    color:  rgb(253, 222, 214);
+    margin-left: 1540px;
+    margin-top: 610px;
+}
+
+.buton {
+    padding: 10px;
+    background-color: rgb(122, 140, 219);
+    color:  rgb(253, 222, 214);
+    margin-left: 370px;
+    margin-top: 20px;
+}
+
+.intrebare {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(122, 140, 219);
+    font-size: 15px;
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 470px;
+    margin-top: 100px;
+}
