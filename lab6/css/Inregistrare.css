@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(0, 230, 153);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.container {
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px black;
+    width: 400px;
+    height: 520px;
+    text-align: center; 
+}
